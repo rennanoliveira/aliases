@@ -1,0 +1,16 @@
+#Rails aliases
+alias rc='rails console'
+alias rs='rails server'
+alias rg='rails generate'
+alias rgm='rails generate migration'
+alias rdbd='rake db:drop'
+alias rdbm='rake db:migrate'
+alias rdbc='rake db:create'
+alias rdbr='rake db:rollback'
+alias rdbmr='rake db:migrate:redo'
+alias rdbs='rake db:seed' 
+alias rdbf='rake db:drop; rake db:create; rake db:migrate'
+
+#Bundle aliases
+alias bi='bundle install'
+alias bu='bundle update'

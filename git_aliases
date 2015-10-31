@@ -1,0 +1,18 @@
+#git aliases
+alias gs='git status'
+alias gc='git commit'
+alias gd='git diff'
+alias gr='git reset'
+alias gck='git checkout'
+alias gckm='git checkout master'
+alias gckh='git checkout homologacao'
+alias gckp='git checkout producao'
+alias ga='git add'
+alias gps='git push'
+alias gpsm='git push origin master'
+alias gpsh='git push origin homologacao'
+alias gpsp='git push origin producao'
+alias gpl='git pull'
+alias gmhm='git merge homologacao master'
+alias gmph='git merge producao homologacao'
+alias gb="git branch"

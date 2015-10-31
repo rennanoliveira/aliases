@@ -1,0 +1,4 @@
+
+#node aliases
+alias nw='npm run watch'
+alias nd='npm run deploy'
