@@ -19,6 +19,7 @@ alias gb="git branch"
 alias gst='git stash'
 alias gstp='git stash pop'
 alias grb='git rebase'
+alias gl='git log'
 
 #Rails aliases
 alias rc='rails console'
