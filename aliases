@@ -16,6 +16,9 @@ alias gpl='git pull'
 alias gmhm='git merge homologacao master'
 alias gmph='git merge producao homologacao'
 alias gb="git branch"
+alias gst='git stash'
+alias gstp='git stash pop'
+alias grb='git rebase'
 
 #Rails aliases
 alias rc='rails console'
@@ -29,6 +32,9 @@ alias rdbr='rake db:rollback'
 alias rdbmr='rake db:migrate:redo'
 alias rdbs='rake db:seed' 
 alias rdbf='rake db:drop; rake db:create; rake db:migrate'
+
+#Rubocop aliases
+alias rbc='rubocop'
 
 #Bundle aliases
 alias bi='bundle install'
