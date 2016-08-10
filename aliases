@@ -58,3 +58,7 @@ alias bu='bundle update'
 #Node aliases
 alias nw='npm run watch'
 alias nd='npm run deploy'
+
+#Heroku aliases
+alias hrcrh='heroku run rails c --app pagnet-rh'
+alias hrcrhs='heroku run rails c --app pagnet-rh-staging'
