@@ -59,6 +59,11 @@ alias bu='bundle update'
 alias nw='npm run watch'
 alias nd='npm run deploy'
 
+#Grunt aliases
+alias grb='grunt build'
+alias grbd='grunt build-dev'
+alias grw='grunt watch'
+
 #Heroku aliases
 alias hrcrh='heroku run rails c --app pagnet-rh'
 alias hrcrhs='heroku run rails c --app pagnet-rh-staging'
