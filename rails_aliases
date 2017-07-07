@@ -14,3 +14,6 @@ alias rdbf='rake db:drop; rake db:create; rake db:migrate'
 #Bundle aliases
 alias bi='bundle install'
 alias bu='bundle update'
+
+#Rspec with rubocop
+alias rubospec='rspec ; rubocop'
